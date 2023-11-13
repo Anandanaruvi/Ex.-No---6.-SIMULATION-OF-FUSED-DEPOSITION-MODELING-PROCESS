@@ -22,8 +22,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Anandanaruvi/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120443233/16268583-3ceb-44bd-aa07-5010fdeb9827)
+
+
+
+### Name:A.ARUVI.
+### Register Number:212222230014.
 
 ## Result:
+
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
+
